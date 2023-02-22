@@ -15,5 +15,6 @@ features:
     12. app drawer
 
     13. splash screen
+    14. animations
     
     
