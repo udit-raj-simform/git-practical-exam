@@ -1,0 +1,10 @@
+Where and when to use pull request.
+-> You have a cloned directory or you are a collaborator in a remote repository.
+-> You can create a branch locally and then make some amends or add some changes.
+-> Then you can save these changes, stage it and push it to the remote repo after committing these changes.
+-> This will create a pull request from your side to be merged to the default branch (main/master/dev) in repo.
+-> when you are a collaborator, you can create a pr directly from the github interface.
+-> you can also change the repo you want to commit these changes to.
+-> This pr will be reviewed by other collaborators or owner for repo for changes and its consistency.
+-> if there is some conflict they may tell you change it or update it or in some cases close the pr itself.
+-> if a pr is successful and its consistent then it will be merged by owner or collaborators to the code.
