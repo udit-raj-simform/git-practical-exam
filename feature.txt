@@ -1,0 +1,20 @@
+features:
+
+    1. login
+    2. signup
+    3. password reocvery
+    4. e-mail verification
+    5. profile update
+    6. 3D UI design
+    7. elastic changes
+
+    8. login using \phone number
+    9. guest signin
+    10. in app notification
+    11. bottom navigation bar
+    12. app drawer
+
+    13. splash screen
+    14. animations
+    
+    
