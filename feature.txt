@@ -1,0 +1,9 @@
+features:
+
+    1. login
+    2. signup
+    3. password reocvery
+    4. e-mail verification
+    5. profile update
+    6. 3D UI design
+    7. elastic changes
