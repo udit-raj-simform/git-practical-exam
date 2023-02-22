@@ -13,4 +13,7 @@ features:
     10. in app notification
     11. bottom navigation bar
     12. app drawer
+
+    13. splash screen
+    
     
