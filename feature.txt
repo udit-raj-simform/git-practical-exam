@@ -7,3 +7,10 @@ features:
     5. profile update
     6. 3D UI design
     7. elastic changes
+
+    8. login using \phone number
+    9. guest signin
+    10. in app notification
+    11. bottom navigation bar
+    12. app drawer
+    
